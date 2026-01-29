@@ -47,17 +47,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalJoshi17&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomalJoshi17&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomalJoshi17&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KomalJoshi17&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=KomalJoshi17&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 🧠 Competitive Programming
 <p align="left">
   <a href="https://leetcode.com/KomalJoshi17/">
