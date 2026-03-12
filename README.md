@@ -108,10 +108,18 @@ I love debugging tricky logic errors and celebrating tiny wins with **tea & musi
 
 ## 🧠 Competitive Programming
 
+### 🏆 LeetCode Progress
+
 <p align="center">
   <a href="https://leetcode.com/KomalJoshi17/">
+    <img src="https://leetcard.jacoblin.cool/KomalJoshi17?theme=dark&font=baloo&ext=contest&animation=true" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  <img src
+
 
 ### 🔥 Coding Activity (Last 6 Months)
 
