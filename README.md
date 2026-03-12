@@ -1,80 +1,120 @@
-# 👋 Hi, I'm Komal Joshi
-
-💡 Passionate Computer Science student focused on **DSA, System Design, and Full-Stack Development**, with a strong interest in **community-driven tech projects** and problem solving.
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on **LeetCode DSA Challenges**, **System Design**, and **Community Development Projects** with **Pingalwara Sangrur**
-- 🤝 Looking to collaborate on **Open Source Projects, Coding Contests, and Web Development Tasks**
-- ❓ Seeking guidance in **Advanced System Design, OS Optimization Techniques, and Competitive Coding**
-- 🌱 Learning **Networking Protocols, Real-Time OS Concepts, and Interview-Focused Problem Solving**
-- 💬 Ask me about **DSA in C++, Problem-Solving Strategies, or Networking Basics**
-- ⚡ Fun fact: I love debugging tricky logic errors and celebrating tiny wins with **tea & music** ☕🎶
-
----
-
-## 🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
-</p>
-
----
-
-## 📈 GitHub Stats
+# 👋 Hi, I'm **Komal Joshi**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KomalJoshi17&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;DSA+%7C+Full+Stack+Developer;System+Design+Enthusiast;Competitive+Programmer;Open+Source+Learner" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalJoshi17&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-## 🧠 Competitive Programming
-<p align="left">
-  <a href="https://leetcode.com/KomalJoshi17/">
-    <img src="https://leetcard.jacoblin.cool/KomalJoshi17?theme=light&animation=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=KomalJoshi17&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/KomalJoshi17?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/KomalJoshi17?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/komal-joshi10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:moudgillkomal6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+# 🚀 About Me
+
+🎓 **B.Tech Computer Science Student (Batch 2027)**
+💻 Passionate about **DSA, System Design, and Full-Stack Development**
+🌍 Interested in **Community-driven Tech Projects**
+
+🔭 Currently working on
+• LeetCode **DSA Challenges**
+• **System Design Fundamentals**
+• **Community Development Projects** with Pingalwara Sangrur
+
+🤝 Looking to collaborate on
+• Open Source Projects
+• Web Development Projects
+• Coding Contests
+
+🌱 Currently learning
+• Networking Protocols
+• Real-Time Operating Systems
+• Advanced Problem Solving
+
+💬 Ask me about
+• **C++ DSA**
+• **Problem Solving Strategies**
+• **Networking Basics**
+
+⚡ Fun fact
+I love debugging tricky logic errors and celebrating tiny wins with **tea & music ☕🎶**
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,php,mongodb,mysql,firebase,git,github,figma,netlify,vercel" />
 </p>
 
 ---
 
-## ⚡ Fuel the Creativity
+# 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/KomalJoshi17" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KomalJoshi17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalJoshi17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KomalJoshi17&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalJoshi17&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+# 🧠 Competitive Programming
+
+<p align="center">
+<a href="https://leetcode.com/KomalJoshi17/">
+<img src="https://leetcard.jacoblin.cool/KomalJoshi17?theme=dark&font=baloo&ext=contest" />
+</a>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/komal-joshi10/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:moudgillkomal6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KomalJoshi17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Support My Work
+
+<p align="center">
+If you like my work, consider giving a ⭐ to the repositories!
 </p>
 
 <p align="center">
-  If you found something helpful, consider <strong>starring</strong> the project ⭐  
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
