@@ -43,11 +43,38 @@ I love debugging tricky logic errors and celebrating tiny wins with **tea & musi
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,php,mongodb,mysql,firebase,git,github,figma,netlify,vercel" />
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,php" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel" />
+</p>
+
+### 🧠 Computer Science Fundamentals
+
+* Data Structures & Algorithms
+* Operating Systems
+* Computer Networks
+* System Design Basics
 
 ---
 
