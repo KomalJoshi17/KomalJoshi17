@@ -114,10 +114,25 @@ I love debugging tricky logic errors and celebrating tiny wins with **tea & musi
   </a>
 </p>
 
+### 🔥 Coding Activity (Last 6 Months)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalJoshi17&theme=react-dark&hide_border=true&area=true&days=180" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shi
+  <img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Coding-Streak%20Builder-brightgreen?style=for-the-badge" />
+</p>
 
+<p align="center">
+  💡 Strengthening <b>Data Structures, Algorithms, and Problem-Solving Skills</b> through consistent practice.
+</p>
+
+<p align="center">
+  🔗 <a href="https://leetcode.com/KomalJoshi17/">View My LeetCode Profile</a>
+</p>
 
 ---
 
