@@ -110,7 +110,6 @@ I love debugging tricky logic errors and celebrating tiny wins with **tea & musi
 
 <p align="center">
   <a href="https://leetcode.com/KomalJoshi17/">
-    <img src="https://leetcard.jacoblin.cool/KomalJoshi17?theme=dark&font=baloo&ext=heatmap&animation=true" />
   </a>
 </p>
 
