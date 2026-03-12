@@ -109,12 +109,15 @@ I love debugging tricky logic errors and celebrating tiny wins with **tea & musi
 
 ---
 
-# ⚡ Support My Work
+## ⚡ Fuel the Creativity
 
 <p align="center">
-If you like my work, consider giving a ⭐ to the repositories!
+  <a href="https://github.com/KomalJoshi17" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  If you found something helpful, consider <strong>starring</strong> the project ⭐
 </p>
+
